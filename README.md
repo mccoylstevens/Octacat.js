@@ -6,7 +6,7 @@ https://github.dev
 
 # How it works
 
-This library is used within https://myoctocat.dev to make an octocat. It maintains a set of options and then renders an SVG with all of the pieces and then draws it to a canvas.
+This library is used within https://github.dev to make an octocat. It maintains a set of options and then renders an SVG with all of the pieces and then draws it to a canvas.
 
 To import:
 
@@ -38,7 +38,7 @@ Whenever you update an option (or call `redraw` directly) the SVG must be redraw
 
 # Docs
 
-**Colors**
+**
 
 Note: colors can be any valid [SVG or CSS2 Color](https://developer.mozilla.org/en-US/docs/Web/CSS/color) including alpha transparency. However, alpha transparency tends to be very computationally expensive when used within `canvas` elements.
 
