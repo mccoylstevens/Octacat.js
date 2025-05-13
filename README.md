@@ -1,8 +1,8 @@
 # Octocat.js
 
-Build your own octocat.
+Build your home
 
-https://myoctocat.dev
+https://github.dev
 
 # How it works
 
